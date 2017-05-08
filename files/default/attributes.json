@@ -1,0 +1,25 @@
+{
+  "customize_cookbook": "themis-finals-customize-volgactf-2016-finals",
+  "frontend_customize_module": "frontend/customize.js",
+  "frontend_extra_files": {
+    "frontend/volgactf-logo.svg": "src/images/volgactf-logo.svg"
+  },
+  "team_logo_files": {
+    "logo/pixels.png": "team1.png",
+    "logo/IBS_plus_plus.png": "team2.png",
+    "logo/magichats.png": "team3.png",
+    "logo/koibasta.png": "team4.png",
+    "logo/balalaicacrew.png": "team5.png",
+    "logo/ked.png": "team6.png",
+    "logo/batmans_kitchen.png": "team7.png",
+    "logo/epicfairplay.png": "team8.png",
+    "logo/vortex.png": "team9.png",
+    "logo/bushwhackers.png": "team10.png",
+    "logo/destructive_voice.png": "team11.png",
+    "logo/e_vapers.png": "team12.png",
+    "logo/HETTO.png": "team13.png",
+    "logo/swissmadesec.png": "team14.png",
+    "logo/fluxfingers.png": "team15.png",
+    "logo/kazntu.png": "team16.png"
+  }
+}
